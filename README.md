@@ -32,4 +32,4 @@ The data pack is licensed under the GPLv3. For more information, take a look at 
 
 ## Inspiration
 
-[latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+[latest]: https://github.com/Tschipcraft/Death-Animations/releases/latest
