@@ -1,8 +1,16 @@
 > __NOTE:__ If you happen to use this template, make sure to replace the Kofi username inside the `.github/FUNDING.yml` file :)
 
-# Projectname
+# Death Animations
 
-> A Minecraft 1.16.x data pack that
+> A Minecraft 1.16.x data pack. Mobs have new epic animations when they die.
+
+Works with:
+Zombies, Husks, Skeletons, Strays, Creepers, Drowned, Phantoms, Villagers, Pillagers, Evokers, Vindicators, Pigs, Cows, Chickens, Sheep, Iron golems, Ravagers, Endermites.
+
+Most bodyparts can be picked up by rightclicking them.
+You can also use them in workbenches or even eat them.
+
+Unique animations are available for Iron Golems, Phantoms, Endermites and Ravagers
 
 ## Installation
 
