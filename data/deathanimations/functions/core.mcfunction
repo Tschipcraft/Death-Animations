@@ -75,4 +75,4 @@ execute as @e[type=minecraft:arrow] at @s if entity @e[type=#deathanimations:mar
 
 ### Explosions
 
-say test
+say a
