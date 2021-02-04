@@ -51,6 +51,7 @@ jobs:
           prerelease: false
 
       - name: Upload assetpack release asset
+        id: upload-release-asset
         uses: actions/upload-release-asset@v1
         if: steps.check_assets_folder.outputs.files_exists == 'true'
         env:
